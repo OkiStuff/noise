@@ -1,4 +1,5 @@
 # Noise
+
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/KyoriPowered/adventure/build/master) [![MIT License](https://img.shields.io/badge/license-MIT-blue)](LICENSE.txt) [![Maven Central](https://img.shields.io/maven-central/v/org.spongepowered/noise?label=stable)](https://search.maven.org/search?q=g:org.spongepowered%20AND%20a:noise) ![Sonatype Nexus (Snapshots)](https://img.shields.io/nexus/s/org.spongepowered/noise?label=dev&server=https%3A%2F%2Foss.sonatype.org)
 
 Noise generation library for Java, based on the [libnoise](http://libnoise.sourceforge.net/) C++ library by Jason Bevins. It is used to generate coherent noise, a type of smoothly-changing noise. It can also generate Perlin noise, ridged multifractal noise, and other types of coherent noise.
